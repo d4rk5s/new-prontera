@@ -1,0 +1,8 @@
+{
+  "name": "new-prontera",
+  "version": "1.0.0",
+  "description": "new prontera",
+  "requires": {
+    "era": "any"
+  }
+}
